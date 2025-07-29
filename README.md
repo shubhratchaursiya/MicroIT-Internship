@@ -23,8 +23,10 @@ Welcome! This repository contains mini-projects completed during the **Micro‑I
 ## 📬 Feedback & Contact
 
 I'd love to hear your thoughts!
-GitHub: `https://github.com/your-username`
-LinkedIn: `https://linkedin.com/in/your-profile`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/shubhratchaursiya)
+
 
 ---
 
