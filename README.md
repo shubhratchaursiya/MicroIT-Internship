@@ -20,6 +20,13 @@ Welcome! This repository contains mini-projects completed during the **Micro‑I
 - Interactive UI using notebook widgets
 
 ---
+## 📬 Feedback & Contact
+
+I'd love to hear your thoughts!
+GitHub: `https://github.com/your-username`
+LinkedIn: `https://linkedin.com/in/your-profile`
+
+---
 
 ## 🚀 How to Run
 
@@ -73,11 +80,3 @@ These projects were built during my tenure at Micro‑IT where I honed front-end
 MIT License — feel free to reuse or adapt for educational purposes.
 
 ---
-
-## 📬 Feedback & Contact
-
-I'd love to hear your thoughts!
-GitHub: `https://github.com/your-username`
-LinkedIn: `https://linkedin.com/in/your-profile`
-
-```
